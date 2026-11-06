@@ -1,0 +1,16 @@
+documents:
+  - title: "IRBM e-Invoice Guideline Version 4.8"
+    doc_type: e-invoice
+    url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
+  - title: "IRBM e-Invoice Specific Guideline Version 4.9"
+    doc_type: e-invoice
+    url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
+  - title: "IRBM Implementation of e-Invoice in Malaysia FAQs"
+    doc_type: e-invoice
+    url: "https://www.hasil.gov.my/media/0xqitc2t/lhdnm-e-invoice-general-faqs.pdf"
+  - title: "RMCD Guide to Registration Under the Sales Tax Act 2018"
+    doc_type: sst
+    url: "https://pub-359af8e1f79c472292a7e44ec60f3027.r2.dev/Specific%20Guides/MS/Panduan%20Pendaftaran%20Di%20Bawah%20ACJ%202018.pdf"
+  - title: "RMCD FAQ Service Tax"
+    doc_type: sst
+    url: "https://mysst.customs.gov.my/faq-services-tax/"

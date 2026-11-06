@@ -1,0 +1,8 @@
+.env
+api/.env
+api/bin/
+api/vendor/
+ingest/.venv/
+ingest/__pycache__/
+ingest/data/
+*.log

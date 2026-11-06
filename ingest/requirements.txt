@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+psycopg[binary]==3.2.9
+pymupdf==1.26.4
+python-dotenv==1.1.1
+pyyaml==6.0.2
+requests==2.32.4

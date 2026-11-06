@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Q01",
+    "question": "2026 年马来西亚 e-Invoice 的豁免营业额门槛是多少？",
+    "doc_type": "e-invoice",
+    "expected_titles": ["IRBM e-Invoice Guideline Version 4.8"],
+    "answerable": true
+  },
+  {
+    "id": "Q02",
+    "question": "Which e-Invoice guideline explains the interim relaxation period and voluntary disclosure programme?",
+    "doc_type": "e-invoice",
+    "expected_titles": ["IRBM e-Invoice Specific Guideline Version 4.9"],
+    "answerable": true
+  },
+  {
+    "id": "Q03",
+    "question": "MyInvois portal 上的 e-Invoice 提交流程包括哪些主要步骤？",
+    "doc_type": "e-invoice",
+    "expected_titles": ["IRBM e-Invoice Guideline Version 4.8"],
+    "answerable": true
+  },
+  {
+    "id": "Q04",
+    "question": "What service tax rate applies to food and beverage services according to the RMCD FAQ?",
+    "doc_type": "sst",
+    "expected_titles": ["RMCD FAQ Service Tax"],
+    "answerable": true
+  },
+  {
+    "id": "Q05",
+    "question": "服务税记录需要保存多少年？",
+    "doc_type": "sst",
+    "expected_titles": ["RMCD FAQ Service Tax"],
+    "answerable": true
+  },
+  {
+    "id": "Q06",
+    "question": "Which guide covers registration under the Sales Tax Act 2018?",
+    "doc_type": "sst",
+    "expected_titles": ["RMCD Guide to Registration Under the Sales Tax Act 2018"],
+    "answerable": true
+  },
+  {
+    "id": "Q07",
+    "question": "How long after validation can a buyer reject or cancel an e-Invoice?",
+    "doc_type": "e-invoice",
+    "expected_titles": ["IRBM e-Invoice Specific Guideline Version 4.9"],
+    "answerable": true
+  },
+  {
+    "id": "Q08",
+    "question": "Can a taxable service provider apply in writing to use an accounting basis for service tax?",
+    "doc_type": "sst",
+    "expected_titles": ["RMCD FAQ Service Tax"],
+    "answerable": true
+  },
+  {
+    "id": "Q09",
+    "question": "What details are needed from an individual buyer for an e-Invoice?",
+    "doc_type": "e-invoice",
+    "expected_titles": ["IRBM e-Invoice Specific Guideline Version 4.9"],
+    "answerable": true
+  },
+  {
+    "id": "Q10",
+    "question": "What will Malaysia's corporate income tax rate be in 2030?",
+    "doc_type": "income-tax",
+    "expected_titles": [],
+    "answerable": false
+  }
+]

@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS meeting_notes;
+DROP TABLE IF EXISTS chunks;
+DROP TABLE IF EXISTS documents;
+DROP TABLE IF EXISTS activities;
+DROP TABLE IF EXISTS opportunities;
+DROP TABLE IF EXISTS contacts;
